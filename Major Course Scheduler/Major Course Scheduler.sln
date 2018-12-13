@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Major Course Scheduler", "Major Course Scheduler\Major Course Scheduler.csproj", "{935B1C34-DCE5-4D57-9561-11ACAF8029DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935B1C34-DCE5-4D57-9561-11ACAF8029DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B1C34-DCE5-4D57-9561-11ACAF8029DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B1C34-DCE5-4D57-9561-11ACAF8029DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B1C34-DCE5-4D57-9561-11ACAF8029DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A31CFC4-722E-425D-95DC-3087E030D7D7}
+	EndGlobalSection
+EndGlobal
